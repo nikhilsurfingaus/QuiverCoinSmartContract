@@ -1,2 +1,2 @@
 # QuiverCoinSmartContract
-QuiverCoin is a token deployed using the Binance BEP-20 BNB Smart Chain (BSC) Standards
+QuiverCoin is a token deployed using the ERC-20 Token Standards
